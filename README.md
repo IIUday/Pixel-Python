@@ -18,8 +18,7 @@ It uses a combination of:
 
 ## 🎮 Features
 
-- Classic snake movement with boundary and self-collision detection.
-- Food spawning and dynamic snake growth.
+- Snake can move left-right or up-down and have to get food within certain number of moves.
 - Score tracking via simple counters.
 - Smooth real-time rendering on VGA display.
 - Minimal hardware resource utilization.
